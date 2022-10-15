@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ASO-CODE/Frontend-Mentor-Stats-preview-card-component](https://github.com/ASO-CODE/Frontend-Mentor-Stats-preview-card-component)
-- Live Site URL: [https://aso-code-stats-preview-card.netlify.app/](https://aso-code-stats-preview-card.netlify.app/)
+- Solution URL: [https://github.com/ASO-CODE/Four-card-feature-section---Frontend-Mentor-Challenge](https://github.com/ASO-CODE/Four-card-feature-section---Frontend-Mentor-Challenge)
+- Live Site URL: [https://four-card-section-aso-code-solution.netlify.app/](https://four-card-section-aso-code-solution.netlify.app/)
 
 ## My process
 
